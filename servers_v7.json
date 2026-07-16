@@ -280,5 +280,13 @@
       "203.135.99.51:15143",
       "183.131.51.178"
     ]
-  }
+  },
+  {
+    "name": "ArmyOFUkraine",
+    "address": [
+      "node1.swdhst.com:2077",
+      "node1.swdhst.com:2047",
+      "node1.swdhst.com:2054"
+    ]
+    }
 ]
