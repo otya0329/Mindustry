@@ -280,5 +280,13 @@
       "203.135.99.51:15143",
       "183.131.51.178"
     ]
+  },
+    {
+    "name": "ocha server",
+    "address": [
+      "node1.swdhst.com:2077",
+      "node1.swdhst.com:2054",
+      "node1.swdhst.com:2047"
+    ]
   }
 ]
